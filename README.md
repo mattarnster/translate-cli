@@ -1,5 +1,5 @@
 # translate-cli
-Gets an audio translation for the specified command-line arguments.
+Gets an audio language translation (in mp3 format) from Google Translate for the specified command-line arguments.
 
 # Usage
 `./translate.sh <word or sentence to translate> <language in which to get the translation>`
